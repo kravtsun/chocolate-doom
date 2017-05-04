@@ -37,3 +37,7 @@ tags
 .#*
 .*.swp
 .DS_store
+
+*.pro.user
+build
+build-*
